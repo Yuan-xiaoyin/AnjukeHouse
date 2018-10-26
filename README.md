@@ -9,4 +9,10 @@
 ![image](https://github.com/Yuan-xiaoyin/AnjukeHouse/blob/master/images/%E5%9C%B0%E5%8C%BA%E6%88%BF%E5%B1%8B%E6%80%BB%E4%BB%B7%E5%88%86%E5%B8%83.png)
 
 通过两张图对比发现，大体上房屋均价跟总价成正比，但是一些中心城区的总价还在四十万以下，说明这些房屋的面积相对较小。
-加下来看看各区域的房屋出售面积对比
+
+
+接下来看看各区域的房屋出售面积对比
+![image](https://github.com/Yuan-xiaoyin/AnjukeHouse/blob/master/images/%E6%88%BF%E5%B1%8B%E5%87%BA%E5%94%AE%E9%9D%A2%E7%A7%AF.png)
+
+通过对比发现，确实在成都中心成都房价单价要高很多，面积相对来说要小一些。
+哈哈，看过成都二手房对比，你准备在哪儿下手呢？（数据发现，在成都二手房中，单价最高的快接近十万了，而且都是集中在锦江与高新）
